@@ -6,7 +6,7 @@
 - [京东](#JD)
 - [商汤](#SenseTime)
 - [华为](#Huawei)
-- [平安](#Pingan)
+- [平安子公司](#Pingan)
 
 <a name="Tencent"></a>
 
