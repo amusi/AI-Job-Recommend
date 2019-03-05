@@ -10,8 +10,11 @@
 - [华为](#Huawei)
 - [平安子公司](#Pingan)
 - [小马智行Pony.ai](#Pony.ai)
+- [海康威视](#Haikang)
 
 更新记录：
+
+2019-03-05：添加海康威视
 
 2019-02-21：添加小马智行Pony.ai
 
@@ -508,3 +511,19 @@ base：深圳、北京、上海、西安和香港
 2、有使用CUDA/cuBLAS/cuDNN等进行GPU编程，并进行性能调优的相关经验；
 
 3、有过知名公司深度学习部门的实习经历。
+
+<a name="Haikang"></a>
+
+## 海康威视
+
+2020届超新星实习生招聘
+
+海康威视内推码：**PT89AZ**（只能用200次）
+
+岗位信息详见（AI算法岗有图像、CV、NLP和自动驾驶等）：
+
+- [2020实习生（总部）](https://campushr.hikvision.com)
+- [2020实习生（分公司）](http://campus.hikvision.com)
+
+海康威视招聘链接：https://mp.weixin.qq.com/s/2oAoq_24OI2_3OSg24Ta5Q
+
