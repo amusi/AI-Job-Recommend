@@ -645,7 +645,7 @@ base：深圳、北京、上海、西安和香港
 
 内推方式
 - 简历命名格式：CVer推荐+姓名+电话号码+应聘岗位
-- 发送：niejinbo@megvii.com.
+- 发送：ostnie@foxmail.com
 
 ### 岗位1：感知算法实习生（10-15k）
 
