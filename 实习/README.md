@@ -744,3 +744,17 @@ base：深圳、北京、上海、西安和香港
 2. 有并行分布式开发经验或ACMICPC/超算比赛等参赛经验。
 
 欢迎大家投简历到邮箱，如需了解其他更多的岗位信息，大家可以在campus.tusimple.com自行寻找。
+
+<a name="ByteDance"></a>
+
+## 字节跳动
+
+头条春招（全职+实习）内推：<https://job.toutiao.com/campus/>
+
+内推码：**WWNUPDJ**
+
+注：可以通过邮箱咨询简历进度：wangyang.wyang@bytedance.com。
+
+另外日常实习/社招请备注好城市和地区，直接投递至邮箱。
+
+- 附官网春招指南：[字节跳动2019春季校园招聘正式启动！](https://mp.weixin.qq.com/s/quQ4jmWHwRE-ATly5ggRRQ)
